@@ -25,15 +25,25 @@ React.js, JavaScript, HTML5, CSS3
 # 📁 Project Structure:
 
 src/
+
 components/
+
 Navbar.jsx
+
 SearchBar.jsx
+
 JobList.jsx
+
 RegistrationForm.jsx
+
 FeedbackForm.jsx
+
 App.jsx
+
 App.css
+
 main.jsx
+
 
 
 # How to Run:
