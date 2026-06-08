@@ -1,0 +1,35 @@
+.app {
+  font-family: Arial;
+}
+
+.navbar {
+  display: flex;
+  gap: 10px;
+  background: #222;
+  padding: 10px;
+}
+
+.navbar button {
+  color: white;
+  background: #444;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.dashboard {
+  padding: 20px;
+}
+
+.card {
+  background: #f3f3f3;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.job-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
