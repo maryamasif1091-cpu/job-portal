@@ -17,7 +17,7 @@ https://react-app-job-fair.netlify.app/
 - Clean and simple UI
 
 
-# 🛠 Tech Stack:
+#  Tech Stack:
 
 React.js, JavaScript, HTML5, CSS3
 
