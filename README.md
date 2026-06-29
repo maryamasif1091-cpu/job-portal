@@ -1,4 +1,4 @@
-# 🚀 Job Fair Portal (React App)
+# Job Fair Portal (React App)
 
 A modern Job Fair Portal built with React.js that allows users to browse jobs, search opportunities, apply for positions, and submit feedback. This project demonstrates component-based architecture, state management, and dynamic UI rendering.
 
@@ -22,7 +22,7 @@ https://react-app-job-fair.netlify.app/
 React.js, JavaScript, HTML5, CSS3
 
 
-# 📁 Project Structure:
+#  Project Structure:
 
 src/
 
